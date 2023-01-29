@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    box-sizing: border-box; /** dong khung lai */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+}
+button{
+    margin-top: 10px;
+    padding: 10px 20px; /** top bot + left right */
+    /* padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px; */ 
+}
+li {
+    list-style-type: none;
+    margin-top: 5px;
+}
+
+ul{
+    padding-left: 0;
+    margin-top: 20px;
+}
